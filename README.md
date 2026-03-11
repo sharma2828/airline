@@ -53,3 +53,24 @@ Backend: Django (Python)
 Database: SQLite
 Frontend: HTML (Django Templates)
 Admin UI: Django Default Admin
+
+**Screenshots:**
+
+**Admin Panel:**
+
+![Users](admin-users.png)
+
+![Airports](admin-airports.png)
+
+![Flights](admin-flights.png)
+
+![Passengers](admin-passengers.png)
+
+
+**User Interface:**
+
+![Flights List](flights-list.png)
+
+![Flight Detail](flight-detail.png)
+
+![No Passenger Add](no-passenger-add-due-to-full-occupancy.png)
